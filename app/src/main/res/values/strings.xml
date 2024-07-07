@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HOT News</string>
+    <string name="menu_home">HOME</string>
+    <string name="menu_sport">SPORTS</string>
+    <string name="menu_tech">TECHNOLOGY</string>
+    <string name="menu_entertain">ENTERTAINMENT</string>
+    <string name="menu_th">Thai News</string>
+    <string name="menu_us">USA News</string>
+</resources>
